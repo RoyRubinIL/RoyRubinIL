@@ -5,10 +5,6 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEzNDIyMzcsIm5iZiI6MTcyMTM0MTkzNywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE4VDIyMzIxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViNzRhZDQ5NTEwNTYxYmY1ODA0YTYzYzg2YjFlNWZmNWNkOWVhOTE0MDczM2FiNDgzYmQ5MWJjZmExZjFkN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AyhYnkN8DjgowK5m8sF4J8RiTof3n48wCcdOVuI-NUY" alt="Coding" />
 </div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=royrubinil&label=Profile%20views&color=0e75b6&style=flat" alt="royrubinil" />
-</p>
-
 - 🌱 I’m currently a **third-year software engineering student specializing in Machine Learning and AI, while actively developing my skills in various programming environments.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoyRubinIL](https://github.com/RoyRubinIL)
